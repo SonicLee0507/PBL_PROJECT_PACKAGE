@@ -1,0 +1,9 @@
+9/22
+此文件記錄著PBL_PROJECT的注意事項
+使用前須於VStudio導入
+1.System.Text.Encoding.CodePages
+2.ExcelDataReader
+3.ExcelDataReader.DataSet
+
+使用說明
+1.這還是測試版，未來可能會因進行方式更動
