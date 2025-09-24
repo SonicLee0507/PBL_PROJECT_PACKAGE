@@ -11,3 +11,8 @@
 9/24
 新增Save測試，存檔路徑
 C:\Users\sam92\AppData\LocalLow\HelmStudio
+
+Excel新增Script Command 列
+可在其中增加Void名取用StatsChanger.cs的Void
+
+目前達到更改GameData Money的測試
