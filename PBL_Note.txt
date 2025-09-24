@@ -16,3 +16,7 @@ Excel新增Script Command 列
 可在其中增加Void名取用StatsChanger.cs的Void
 
 目前達到更改GameData Money的測試
+
+9/25 
+
+修好LOAD順序錯誤導致的數據加載失敗 
