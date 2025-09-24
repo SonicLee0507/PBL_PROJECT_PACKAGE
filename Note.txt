@@ -7,3 +7,7 @@
 
 使用說明
 1.這還是測試版，未來可能會因進行方式更動
+
+9/24
+新增Save測試，存檔路徑
+C:\Users\sam92\AppData\LocalLow\HelmStudio
