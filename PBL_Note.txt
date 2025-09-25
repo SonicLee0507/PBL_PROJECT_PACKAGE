@@ -20,3 +20,5 @@ Excel新增Script Command 列
 9/25 
 
 修好LOAD順序錯誤導致的數據加載失敗 
+
+更改StatsChanger，從Instance改為Static靜態類別
