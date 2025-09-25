@@ -25,3 +25,7 @@ Excel新增Script Command 列
 
 更改GameSaveData => GameDataManager
 刪除此版本前的Script
+
+9/26
+新增自動撥放和跳過重複對話功能
+新增VNManager的按鈕圖檔文件夾
