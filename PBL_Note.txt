@@ -29,3 +29,10 @@ Excel新增Script Command 列
 9/26
 新增自動撥放和跳過重複對話功能
 新增VNManager的按鈕圖檔文件夾
+
+10/1
+調整了DialogueSys的文件夾位置，所以更新時要把程式資料夾全刪除再更新
+
+CookingSystem植入，於CookingScene測試
+
+EventTrigger製作中，於Miro構思具體實現方法
