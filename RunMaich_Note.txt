@@ -1,0 +1,41 @@
+9/22
+此文件記錄著PBL_PROJECT的注意事項
+使用前須於VStudio導入
+1.System.Text.Encoding.CodePages
+2.ExcelDataReader
+3.ExcelDataReader.DataSet
+
+使用說明
+1.這還是測試版，未來可能會因進行方式更動
+
+9/24
+新增Save測試，存檔路徑
+C:\Users\sam92\AppData\LocalLow\HelmStudio
+
+Excel新增Script Command 列
+可在其中增加Void名取用StatsChanger.cs的Void
+
+目前達到更改GameData Money的測試
+
+9/25 
+
+修好LOAD順序錯誤導致的數據加載失敗 
+
+更改StatsChanger，從Instance改為Static靜態類別
+
+更改GameSaveData => GameDataManager
+刪除此版本前的Script
+
+9/26
+新增自動撥放和跳過重複對話功能
+新增VNManager的按鈕圖檔文件夾
+
+10/1
+調整了DialogueSys的文件夾位置，所以更新時要把程式資料夾全刪除再更新
+
+CookingSystem植入，於CookingScene測試
+
+EventTrigger製作中，於Miro構思具體實現方法
+
+10/8
+QuestManager製作到一半
